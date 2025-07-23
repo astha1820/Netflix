@@ -1,2 +1,3 @@
 This is a Netflix Dashboard
-<img width="1671" height="822" alt="image" src="https://github.com/user-attachments/assets/edd8f399-3064-4dc8-bbf0-d882b186f5b0" />
+<img width="1163" height="637" alt="image" src="https://github.com/user-attachments/assets/82363cbc-33da-47ad-9551-ef1079bdc2bb" />
+
